@@ -1,6 +1,6 @@
 # 💤 Turu
 
-Turu is s simple service registrator for docker containers. It will listen docker container event and register service to selected service registry.
+Turu is simple service registrator for docker containers. It will listen docker container event and register service to selected service registry.
 
 ## Install
 
