@@ -1,0 +1,12 @@
+config:
+  apisix-yaml:
+    path: path-to-yaml-file
+  apisix-etcd:
+    endpoint: http://127.0.0.1:2379
+    timeout: 5s
+    username: optional
+    password: optional
+    mtls:
+      cert: path-to-certificate
+      key: path-to-key
+      ca: path-to-ca
